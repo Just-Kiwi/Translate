@@ -1,0 +1,7 @@
+{
+  "name": "MediSpeak Translator",
+  "description": "A high-accessibility multilingual voice translation interface designed for medical contexts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
